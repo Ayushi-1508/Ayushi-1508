@@ -8,11 +8,8 @@
   <a href="https://www.linkedin.com/in/ayushi-pal-4450b233a/"> <!-- Replace with real LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayushi.email@example.com"> <!-- Replace with real email -->
+  <a href="mailto:ayushipal9454@gmail.com <!-- Replace with real email -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ayushi-portfolio.vercel.app/"> <!-- Replace with real portfolio URL -->
-    <img src="https://img.shields.io/badge/Portfolio-342AC8?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
 
