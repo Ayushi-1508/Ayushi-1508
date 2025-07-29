@@ -83,7 +83,7 @@
   <a href="https://codeforces.com/profile/ayushiCodeforcesID"> <!-- Replace with actual ID -->
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/ayushiLeetcodeID"> <!-- Replace with actual ID -->
+  <a href="https://leetcode.com/u/mahek_1508/"> <!-- Replace with actual ID -->
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
