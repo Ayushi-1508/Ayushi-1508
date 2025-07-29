@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushi-1508m&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushi-1508&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
