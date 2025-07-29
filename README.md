@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student at [Your College Name].
+- 🎓 B.Tech Student at [Kamla Nehru Institute Technology].
 - 💡 Passionate about **Full Stack Development** and **Problem Solving**.
 - 🌱 Currently mastering **React.js**, **Node.js**, and diving into **PostgreSQL** & **Prisma**.
 - 💻 Love creating impactful web applications and beautiful UI/UX experiences.
