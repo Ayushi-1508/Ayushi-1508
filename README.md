@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushi-pal-123456789/"> <!-- Replace with real LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/ayushi-pal-4450b233a/"> <!-- Replace with real LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayushi.email@example.com"> <!-- Replace with real email -->
