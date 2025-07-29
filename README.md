@@ -40,16 +40,10 @@
     <img src="https://skillicons.dev/icons?i=cpp" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=java" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=python" height="45" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=ts" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=js" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=html" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=css" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=react" height="45" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=express" height="45" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" style="margin: 0 20px;" />
-    <img src="https://skillicons.dev/icons?i=prisma" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=git" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=github" height="45" style="margin: 0 20px;" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" style="margin: 0 20px;" />
