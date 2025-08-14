@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Student at Kamla Nehru Institute Technology.
-- 💡 Passionate about **Full Stack Development** and **Problem Solving**.
+- 💡 Passionate about **Frontend Development** and **Problem Solving**.
 - 💻 Love creating impactful web applications and beautiful UI/UX experiences.
 - ✨ Believer in consistency and lifelong learning.
 
